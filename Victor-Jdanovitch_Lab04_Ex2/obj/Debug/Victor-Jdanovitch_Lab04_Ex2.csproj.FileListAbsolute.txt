@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab04\Victor-Jdanovitch_Lab04_Ex2\bin\Debug\Victor-Jdanovitch_Lab04_Ex2.exe.config
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab04\Victor-Jdanovitch_Lab04_Ex2\bin\Debug\Victor-Jdanovitch_Lab04_Ex2.exe
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab04\Victor-Jdanovitch_Lab04_Ex2\bin\Debug\Victor-Jdanovitch_Lab04_Ex2.pdb
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab04\Victor-Jdanovitch_Lab04_Ex2\obj\Debug\Victor-Jdanovitch_Lab04_Ex2.exe
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab04\Victor-Jdanovitch_Lab04_Ex2\obj\Debug\Victor-Jdanovitch_Lab04_Ex2.pdb
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab04\Victor-Jdanovitch_Lab04_Ex2\obj\Debug\Victor-Jdanovitch_Lab04_Ex2.csprojResolveAssemblyReference.cache
